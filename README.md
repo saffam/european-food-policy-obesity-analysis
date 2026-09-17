@@ -52,8 +52,6 @@ european-food-policy-obesity-analysis/
 ├── README.md
 ├── .gitignore
 └── .gitattributes
-```
-
 
 
 # Data Sources
@@ -194,7 +192,6 @@ Potential extensions of the project include:
 * Testing alternative policy classifications
 * Applying panel-data methods where suitable longitudinal data are available
 * Extending the analysis toward a health-economic evaluation of specific food-policy interventions
-
 
 
 
