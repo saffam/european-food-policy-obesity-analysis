@@ -1,0 +1,4 @@
+,Policy_Count,Instrument_Diversity,Obesity_Prevalence
+Policy_Count,1.0,0.8266384580174289,-0.1908091755409319
+Instrument_Diversity,0.8266384580174289,1.0,-0.3829004923523421
+Obesity_Prevalence,-0.1908091755409319,-0.3829004923523421,1.0
